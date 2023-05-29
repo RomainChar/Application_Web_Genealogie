@@ -1,4 +1,4 @@
-Ce projet est une application web permettant de gérer la généalogie de plusieurs familles.
+Ce projet, réalisé début 2022, est une application web permettant de gérer la généalogie de plusieurs familles.
 
 Développé en HTML, CSS, PHP et MySQL pour la base de données.
 L'application fonctionne en local avec une base de données MySQL (les détails de la configuration en local sont dans le fichier projet/app/controller/config.php).
