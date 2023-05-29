@@ -1,0 +1,17 @@
+
+body {
+    background-color: white;
+}
+
+.container {
+    margin-top: 80px;
+    background-color: lemonchiffon;
+    width: 90%;
+}
+
+.jumbotron {
+  background-color:plum;
+}
+h1{
+    color: red;
+}
